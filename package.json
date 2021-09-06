@@ -1,0 +1,11 @@
+{
+  "name": "gr-images-grid",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "remark-parse": "~9.0.0",
+    "unified": "~9.2.2",
+    "unist-util-visit": "~2.0.3"
+  }
+}
